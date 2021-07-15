@@ -36,11 +36,11 @@ import csv
 class Nasdaq:
     def __init__(self):
         self.driver = webdriver.Chrome('chromedriver.exe',options=options)
-        next_date =datetime.date.today() + datetime.timedelta(days=1)
+        # next_date =datetime.date.today() + datetime.timedelta(days=1)
         # print(next_date)
 
 
-        # next_date    = datetime.date(2021,7,25) # test purpose only
+        next_date    = datetime.date(2021,7,29) # test purpose only
 
         today_day = next_date.weekday()
 
@@ -63,8 +63,8 @@ class Nasdaq:
             print(list(headers.keys()))
             
 
-            # with open('test.json','w') as file:
-            #     file.write(str(json.dumps(rows)))
+            with open('test.json','w') as file:
+                file.write(str(json.dumps(rows)))
 
 
             self.driver.quit()

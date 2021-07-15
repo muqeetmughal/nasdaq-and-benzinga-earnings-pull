@@ -1,0 +1,15 @@
+time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,lastYearRptDt,lastYearEPS
+time-pre-market,SCHW,The Charles Schwab Corporation,"$135,477,393,707",Jun/2021,$0.71,7,07/16/2020,$0.54
+time-not-supplied,HDB,HDFC Bank Limited,"$134,667,721,996",Jun/2021,$0.59,1,07/20/2020,$0.48
+time-pre-market,ERIC,Ericsson,"$44,310,876,558",Jun/2021,$0.14,3,07/17/2020,$0.10
+time-pre-market,STT,State Street Corporation,"$29,073,427,539",Jun/2021,$1.77,7,07/17/2020,$1.88
+time-pre-market,KSU,Kansas City Southern,"$24,482,772,410",Jun/2021,$2.19,2,07/17/2020,$1.15
+time-pre-market,FHN,First Horizon Corporation,"$9,097,607,833",Jun/2021,$0.43,7,07/17/2020,$0.20
+time-pre-market,ALV,"Autoliv, Inc.","$8,329,601,508",Jun/2021,$1.44,3,07/17/2020,($1.40)
+time-not-supplied,RBCAA,"Republic Bancorp, Inc.","$960,760,289",Jun/2021,,3,NA,$0.76
+time-not-supplied,PVBC,"Provident Bancorp, Inc.","$293,362,272",Jun/2021,$0.23,1,07/17/2020,$0.18
+time-not-supplied,BOCH,Bank of Commerce Holdings (CA),"$231,541,999",Jun/2021,$0.31,2,07/17/2020,$0.23
+time-not-supplied,ATLO,Ames National Corporation,"$215,844,194",Jun/2021,,3,NA,$0.49
+time-not-supplied,ACU,Acme United Corporation.,"$147,318,356",Jun/2021,,3,NA,$0.92
+time-not-supplied,BRID,Bridgford Foods Corporation,"$118,906,499",Apr/2021,,3,NA,$0.05
+time-not-supplied,EMCF,Emclaire Financial Corp,"$81,337,026",Jun/2021,,3,NA,$0.44
