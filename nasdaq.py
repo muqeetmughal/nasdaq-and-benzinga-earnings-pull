@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from time import sleep
 import os
-
+import csv
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -35,37 +35,55 @@ import csv
 
 class Nasdaq:
     def __init__(self):
-        self.driver = webdriver.Chrome('chromedriver.exe',options=options)
+        
         # next_date =datetime.date.today() + datetime.timedelta(days=1)
-        # print(next_date)
-
-
-        next_date    = datetime.date(2021,7,29) # test purpose only
+        next_date    = datetime.date(2021,7,20) # test purpose only
 
         today_day = next_date.weekday()
 
+        # condition = False
+        # if condition:
         if int(today_day) == 5 or int(today_day) == 6:
-            print("Date is Saturday or Sunday So Skipping")
+            print("---------Tommorow is Saturday or Sunday---------\n---------So Skipping---------\n:)")
+            pass
         else:
-            url = f'https://api.nasdaq.com/api/calendar/earnings?date={next_date}'
+            try:
+                self.driver = webdriver.Chrome('chromedriver.exe',options=options)
+                url = f'https://api.nasdaq.com/api/calendar/earnings?date={next_date}'
 
-            self.driver.get(url)
-            content = self.driver.page_source
-            soup = BeautifulSoup(content, 'html.parser')
-            pre_tag = soup.select('pre')[0].text
-            # print(pre_tag)
+                self.driver.get(url)
+                content = self.driver.page_source
+                soup = BeautifulSoup(content, 'html.parser')
+                pre_tag = soup.select('pre')[0].text
+                # print(pre_tag)
 
-            data = json.loads(pre_tag)
-            headers = data['data']['headers']
-            rows = data['data']['rows']
-
-
-            print(list(headers.keys()))
-            
-
-            with open('test.json','w') as file:
-                file.write(str(json.dumps(rows)))
+                data = json.loads(pre_tag)
+                headers = data['data']['headers']
+                rows = data['data']['rows']
 
 
-            self.driver.quit()
+                csv_columns = list(headers.keys())
+
+                # dict_data = json.dumps(rows)
+                # with open('test.json','w') as file:
+                #     file.write(str(json.dumps(rows)))
+                csv_file = f"data/{next_date}.csv"
+                try:
+                    os.mkdir("data")
+                except FileExistsError:
+                    pass
+                try:
+                    with open(csv_file, 'w') as csvfile:
+                        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+                        writer.writeheader()
+                        # print(dict_data)
+                        for data in rows:
+                            writer.writerow(data)
+                except IOError:
+                    print("I/O error")
+
+                self.driver.quit()
+            except:
+                print("An Error Occured")
+                pass
 bot = Nasdaq()

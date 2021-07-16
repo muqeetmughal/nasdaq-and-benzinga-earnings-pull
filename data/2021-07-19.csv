@@ -1,0 +1,34 @@
+time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,lastYearRptDt,lastYearEPS
+time-after-hours,IBM,International Business Machines Corporation,"$125,495,281,192",Jun/2021,$2.25,6,07/20/2020,$2.18
+time-pre-market,PLD,"Prologis, Inc.","$93,899,386,890",Jun/2021,$0.99,8,07/21/2020,$1.11
+time-after-hours,PPG,"PPG Industries, Inc.","$40,656,395,374",Jun/2021,$2.19,7,07/16/2020,$0.99
+time-after-hours,JBHT,"J.B. Hunt Transport Services, Inc.","$17,727,367,966",Jun/2021,$1.55,7,07/16/2020,$1.14
+time-after-hours,ELS,"Equity Lifestyle Properties, Inc.","$14,422,942,735",Jun/2021,$0.54,1,07/20/2020,$0.47
+time-after-hours,CCK,"Crown Holdings, Inc.","$14,106,383,933",Jun/2021,$1.79,7,07/20/2020,$1.33
+time-after-hours,STLD,"Steel Dynamics, Inc.","$13,015,312,068",Jun/2021,$3.42,1,07/20/2020,$0.47
+time-not-supplied,ZION,Zions Bancorporation N.A.,"$8,464,352,723",Jun/2021,$1.25,11,07/20/2020,$0.34
+time-pre-market,AN,"AutoNation, Inc.","$8,320,806,625",Jun/2021,$2.65,7,07/23/2020,$1.41
+time-after-hours,PACW,PacWest Bancorp,"$4,684,424,899",Jun/2021,$0.98,6,07/16/2020,$0.28
+time-after-hours,WTFC,Wintrust Financial Corporation,"$4,251,737,299",Jun/2021,$1.63,7,07/21/2020,$0.34
+time-after-hours,FNB,F.N.B. Corporation,"$3,771,940,889",Jun/2021,$0.28,7,07/16/2020,$0.26
+time-after-hours,SFBS,"ServisFirst Bancshares, Inc.","$3,647,196,602",Jun/2021,$0.92,3,07/20/2020,$0.75
+time-after-hours,FBK,FB Financial Corporation,"$1,804,925,804",Jun/2021,$0.82,5,07/20/2020,$0.74
+time-pre-market,CALM,"Cal-Maine Foods, Inc.","$1,775,432,963",May/2021,$0.26,1,07/20/2020,$1.24
+time-after-hours,KARO,Karooooo Ltd.,"$778,685,243",May/2021,$0.27,7,NA,NA
+time-not-supplied,PETS,"PetMed Express, Inc.","$592,877,405",Jun/2021,,7,NA,$0.39
+time-after-hours,EQBK,"Equity Bancshares, Inc.","$429,322,078",Jun/2021,$0.56,2,07/21/2020,$0.16
+time-pre-market,BMRC,Bank of Marin Bancorp,"$423,252,815",Jun/2021,$0.62,4,07/20/2020,$0.46
+time-pre-market,GNTY,"Guaranty Bancshares, Inc.","$415,201,648",Jun/2021,$0.76,2,07/20/2020,$0.86
+time-not-supplied,BSRR,Sierra Bancorp,"$389,121,765",Jun/2021,$0.66,4,07/20/2020,$0.54
+time-not-supplied,ASLN,ASLAN Pharmaceuticals Limited,"$237,066,309",Jun/2021,($0.11),3,07/13/2020,($0.10)
+time-not-supplied,LCNB,LCNB Corporation,"$216,456,164",Jun/2021,$0.40,1,07/20/2020,$0.39
+time-not-supplied,CHMG,Chemung Financial Corp,"$205,788,913",Jun/2021,$1.17,2,07/20/2020,$1.20
+time-not-supplied,PEBK,"Peoples Bancorp of North Carolina, Inc.","$148,318,432",Jun/2021,,7,NA,$0.44
+time-not-supplied,FNCB,FNCB Bancorp Inc.,"$147,033,321",Jun/2021,,7,NA,$0.20
+time-not-supplied,LUB,"Luby's, Inc.","$116,726,216",May/2021,,7,NA,($0.49)
+time-not-supplied,PBIP,"Prudential Bancorp, Inc.","$106,879,924",Jun/2021,$0.21,1,07/20/2020,$0.44
+time-not-supplied,OPTT,"Ocean Power Technologies, Inc.","$101,971,520",Apr/2021,,7,NA,($0.13)
+time-not-supplied,HMNF,"HMN Financial, Inc.","$101,750,362",Jun/2021,,7,NA,$0.58
+time-not-supplied,DIT,AMCON Distributing Company,"$82,120,898",Jun/2021,,7,NA,$2.77
+time-not-supplied,USAU,U.S. Gold Corp.,"$71,368,744",Apr/2021,,7,NA,NA
+time-not-supplied,MSVB,"Mid-Southern Bancorp, Inc.","$50,604,852",Jun/2021,,7,NA,$0.10

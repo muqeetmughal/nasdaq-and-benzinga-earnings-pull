@@ -1,0 +1,384 @@
+time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,lastYearRptDt,lastYearEPS
+time-not-supplied,AMZN,"Amazon.com, Inc.","$1,831,300,350,163",Jun/2021,$12.16,13,07/30/2020,$10.30
+time-pre-market,MA,Mastercard Incorporated,"$386,736,460,461",Jun/2021,$1.71,15,07/30/2020,$1.36
+time-pre-market,CMCSA,Comcast Corporation,"$266,239,058,850",Jun/2021,$0.67,16,07/30/2020,$0.69
+time-pre-market,MRK,"Merck & Company, Inc.","$197,247,346,555",Jun/2021,$1.48,5,07/31/2020,$1.37
+time-pre-market,RDS.A,Royal Dutch Shell PLC,"$152,400,903,479",Jun/2021,$1.09,3,07/30/2020,$0.16
+time-pre-market,AZN,Astrazeneca PLC,"$149,551,004,011",Jun/2021,$0.46,3,07/30/2020,$0.48
+time-pre-market,RDS.B,Royal Dutch Shell PLC,"$148,145,857,762",Jun/2021,,3,NA,$0.16
+time-not-supplied,BUD,Anheuser-Busch Inbev SA,"$136,164,229,233",Jun/2021,$1.21,1,07/30/2020,$0.46
+time-pre-market,SNY,Sanofi,"$129,060,997,744",Jun/2021,$0.81,3,07/29/2020,$0.65
+time-pre-market,AMT,American Tower Corporation (REIT),"$127,896,914,226",Jun/2021,$2.27,5,07/30/2020,$2.07
+time-not-supplied,VALE,VALE S.A.,"$115,403,812,950",Jun/2021,$1.51,3,07/30/2020,$0.22
+time-not-supplied,TTE,TotalEnergies SE,"$113,953,401,656",Jun/2021,$1.10,3,07/30/2020,$0.02
+time-pre-market,SPGI,S&P Global Inc.,"$99,135,168,000",Jun/2021,$3.26,7,07/28/2020,$3.40
+time-pre-market,MO,Altria Group,"$87,886,797,385",Jun/2021,$1.17,5,07/28/2020,$1.09
+time-not-supplied,GILD,"Gilead Sciences, Inc.","$85,660,368,737",Jun/2021,$1.74,9,07/30/2020,$1.11
+time-pre-market,ICE,Intercontinental Exchange Inc.,"$66,400,731,432",Jun/2021,$1.16,3,NA,$1.07
+time-pre-market,SO,Southern Company (The),"$66,344,366,227",Jun/2021,$0.78,4,07/30/2020,$0.78
+time-after-hours,TEAM,Atlassian Corporation Plc,"$64,856,020,667",Jun/2021,($0.09),6,07/30/2020,($0.06)
+time-after-hours,TWLO,Twilio Inc.,"$63,253,282,241",Jun/2021,($0.69),5,08/04/2020,($0.45)
+time-pre-market,NOC,Northrop Grumman Corporation,"$58,609,195,056",Jun/2021,$5.75,7,07/30/2020,$6.01
+time-not-supplied,F,Ford Motor Company,"$55,922,938,870",Jun/2021,($0.27),4,07/30/2020,($0.35)
+time-not-supplied,ABEV,Ambev S.A.,"$53,505,484,415",Jun/2021,$0.02,1,07/30/2020,$0.01
+time-not-supplied,VRTX,Vertex Pharmaceuticals Incorporated,"$51,796,432,110",Jun/2021,$2.25,7,07/30/2020,$2.26
+time-not-supplied,BBD,Banco Bradesco Sa,"$51,530,559,889",Jun/2021,$0.12,3,07/30/2020,$0.07
+time-pre-market,KDP,Keurig Dr Pepper Inc.,"$51,041,395,568",Jun/2021,$0.37,7,07/30/2020,$0.33
+time-pre-market,TRP,TC Energy Corporation,"$48,029,740,000",Jun/2021,$0.80,3,07/30/2020,$0.67
+time-after-hours,KLAC,KLA Corporation ,"$46,559,341,586",Jun/2021,$3.94,6,08/03/2020,$2.73
+time-not-supplied,LYG,Lloyds Banking Group Plc,"$44,883,694,488",Jun/2021,,0,07/30/2020,($0.12)
+time-after-hours,PINS,"Pinterest, Inc.","$44,599,373,448",Jun/2021,($0.11),1,07/31/2020,($0.17)
+time-after-hours,DLR,"Digital Realty Trust, Inc.","$44,234,610,536",Jun/2021,$1.58,6,07/30/2020,$1.54
+time-not-supplied,BBDO,Banco Bradesco Sa,"$44,046,868,619",Jun/2021,,3,NA,$0.07
+time-pre-market,CARR,Carrier Global Corporation,"$43,013,056,548",Jun/2021,$0.55,7,07/30/2020,$0.33
+time-after-hours,DXCM,"DexCom, Inc.","$42,687,906,459",Jun/2021,$0.44,10,07/28/2020,$0.79
+time-not-supplied,DD,"DuPont de Nemours, Inc.","$42,331,922,828",Jun/2021,$0.94,5,07/30/2020,$0.70
+time-after-hours,FTNT,"Fortinet, Inc.","$41,858,314,207",Jun/2021,$0.61,8,08/06/2020,$0.58
+time-pre-market,BAX,Baxter International Inc.,"$40,761,182,552",Jun/2021,$0.74,8,07/30/2020,$0.64
+time-not-supplied,BBVA,Banco Bilbao Viscaya Argentaria S.A.,"$40,691,907,003",Jun/2021,,0,07/30/2020,$0.09
+time-not-supplied,ALXN,"Alexion Pharmaceuticals, Inc.","$39,896,181,207",Jun/2021,$3.16,5,07/30/2020,$2.87
+time-pre-market,HSY,Hershey Company (The),"$37,153,793,348",Jun/2021,$1.41,7,07/23/2020,$1.31
+time-after-hours,WELL,Welltower Inc.,"$36,992,316,300",Jun/2021,$0.76,6,08/05/2020,$0.86
+time-pre-market,XEL,Xcel Energy Inc.,"$36,985,571,296",Jun/2021,$0.56,4,07/30/2020,$0.54
+time-after-hours,RSG,"Republic Services, Inc.","$36,538,896,561",Jun/2021,$0.93,9,08/06/2020,$0.81
+time-not-supplied,YUM,"Yum! Brands, Inc.","$34,851,455,889",Jun/2021,$0.95,8,07/30/2020,$0.82
+time-pre-market,STM,STMicroelectronics N.V.,"$34,430,425,848",Jun/2021,$0.38,2,07/23/2020,$0.10
+time-pre-market,HLT,Hilton Worldwide Holdings Inc.,"$34,231,794,433",Jun/2021,$0.34,7,08/06/2020,($0.61)
+time-after-hours,MTD,"Mettler-Toledo International, Inc.","$33,415,586,638",Jun/2021,$7.63,3,07/30/2020,$5.29
+time-pre-market,NOK,Nokia Corporation,"$32,368,653,250",Jun/2021,$0.05,4,07/31/2020,$0.07
+time-pre-market,MT,ArcelorMittal,"$32,283,634,037",Jun/2021,,0,07/30/2020,($0.30)
+time-not-supplied,XLNX,"Xilinx, Inc.","$31,892,671,815",Jun/2021,$0.82,6,07/30/2020,$0.65
+time-not-supplied,CHT,"Chunghwa Telecom Co., Ltd.","$31,572,807,417",Jun/2021,,0,07/30/2020,$0.37
+time-after-hours,SWKS,"Skyworks Solutions, Inc.","$31,446,825,495",Jun/2021,$1.85,6,07/23/2020,$1.03
+time-not-supplied,ES,Eversource Energy,"$29,575,871,209",Jun/2021,$0.81,5,07/30/2020,$0.76
+time-after-hours,AJG,Arthur J. Gallagher & Co.,"$28,902,050,377",Jun/2021,$1.10,7,07/30/2020,$0.94
+time-pre-market,CBRE,"CBRE Group, Inc.","$28,027,392,065",Jun/2021,$0.72,3,07/31/2020,$0.35
+time-pre-market,WST,"West Pharmaceutical Services, Inc.","$27,459,463,823",Jun/2021,$1.74,4,07/23/2020,$1.25
+time-pre-market,VLO,Valero Energy Corporation,"$27,305,179,022",Jun/2021,$0.44,4,07/30/2020,($1.25)
+time-pre-market,LH,Laboratory Corporation of America Holdings,"$27,058,015,000",Jun/2021,$5.64,7,07/28/2020,$2.57
+time-after-hours,SGEN,Seagen Inc. ,"$26,127,254,631",Jun/2021,($0.59),10,07/30/2020,($0.54)
+time-not-supplied,TEF,Telefonica SA,"$24,387,139,409",Jun/2021,,0,07/30/2020,$0.13
+time-not-supplied,FMS,Fresenius Medical Care Corporation,"$24,022,685,652",Jun/2021,$0.51,1,07/30/2020,$0.66
+time-after-hours,FTV,Fortive Corporation,"$23,832,197,664",Jun/2021,$0.61,5,07/28/2020,$0.68
+time-pre-market,IP,International Paper Company,"$23,461,265,718",Jun/2021,$1.06,6,07/30/2020,$0.77
+time-not-supplied,EXPE,"Expedia Group, Inc.","$23,410,948,148",Jun/2021,($1.18),6,07/30/2020,($4.42)
+time-not-supplied,CS,Credit Suisse Group,"$23,285,500,844",Jun/2021,,0,07/30/2020,$0.48
+time-after-hours,EIX,Edison International,"$21,878,398,135",Jun/2021,$1.01,4,07/28/2020,$1
+time-after-hours,ESS,"Essex Property Trust, Inc.","$21,253,343,591",Jun/2021,$2.98,7,08/03/2020,$3.16
+time-pre-market,HBAN,Huntington Bancshares Incorporated,"$21,062,774,681",Jun/2021,$0.32,8,07/23/2020,$0.13
+time-pre-market,FTS,Fortis Inc.,"$20,831,972,000",Jun/2021,$0.49,3,07/30/2020,$0.40
+time-after-hours,BIO.B,"Bio-Rad Laboratories, Inc.","$20,097,880,353",Jun/2021,,3,NA,$1.61
+time-pre-market,TW,Tradeweb Markets Inc.,"$19,894,681,567",Jun/2021,$0.38,4,07/30/2020,$0.29
+time-after-hours,BIO,"Bio-Rad Laboratories, Inc.","$19,845,484,906",Jun/2021,$1.90,1,07/30/2020,$1.61
+time-pre-market,PCG,Pacific Gas & Electric Co.,"$19,791,503,858",Jun/2021,$0.28,2,07/30/2020,$1.03
+time-pre-market,NVCR,NovoCure Limited,"$18,871,905,343",Jun/2021,$0.02,6,07/30/2020,$0.02
+time-pre-market,CMS,CMS Energy Corporation,"$17,804,657,535",Jun/2021,$0.44,4,08/03/2020,$0.49
+time-pre-market,TFX,Teleflex Incorporated,"$17,580,831,958",Jun/2021,$2.86,5,07/30/2020,$1.93
+time-pre-market,CG,The Carlyle Group Inc.,"$16,129,508,119",Jun/2021,$0.58,5,07/30/2020,$0.53
+time-after-hours,ZEN,"Zendesk, Inc.","$16,123,314,391",Jun/2021,($0.21),6,07/30/2020,($0.16)
+time-pre-market,PPD,"PPD, Inc.","$16,112,857,569",Jun/2021,$0.34,3,08/04/2020,($0.03)
+time-pre-market,CLVT,Clarivate Plc,"$15,901,171,560",Jun/2021,$0.17,2,07/30/2020,$0.17
+time-pre-market,WAB,Westinghouse Air Brake Technologies Corporation,"$15,565,849,089",Jun/2021,$0.98,6,07/28/2020,$0.87
+time-not-supplied,ATUS,"Altice USA, Inc.","$15,523,340,457",Jun/2021,$0.47,13,07/30/2020,$0.19
+time-pre-market,TXT,Textron Inc.,"$15,099,923,737",Jun/2021,$0.61,4,07/30/2020,$0.13
+time-pre-market,LKQ,LKQ Corporation,"$15,098,929,453",Jun/2021,$0.74,8,07/30/2020,$0.53
+time-after-hours,LBTYB,Liberty Global plc,"$14,919,698,571",Jun/2021,,3,NA,($0.86)
+time-pre-market,MAS,Masco Corporation,"$14,866,775,210",Jun/2021,$1.04,5,07/30/2020,$0.84
+time-after-hours,LBTYK,Liberty Global plc,"$14,352,063,257",Jun/2021,,3,NA,($0.86)
+time-after-hours,LBTYA,Liberty Global plc,"$14,267,969,136",Jun/2021,,0,08/03/2020,($0.86)
+time-not-supplied,TAL,TAL Education Group,"$14,148,688,394",May/2021,$0.08,1,07/30/2020,$0.13
+time-after-hours,CPT,Camden Property Trust,"$13,972,523,967",Jun/2021,$1.26,8,07/30/2020,$1.09
+time-pre-market,TAP.A,Molson Coors Beverage Company,"$13,790,506,285",Jun/2021,,3,NA,$1.56
+time-after-hours,MHK,"Mohawk Industries, Inc.","$13,299,590,464",Jun/2021,$3.65,5,08/06/2020,$0.37
+time-not-supplied,DVA,DaVita Inc.,"$12,723,822,000",Jun/2021,$2.14,4,07/30/2020,$1.95
+time-not-supplied,MPW,"Medical Properties Trust, Inc.","$11,969,870,000",Jun/2021,$0.43,7,07/30/2020,$0.38
+time-pre-market,AOS,A.O Smith Corporation,"$11,355,488,175",Jun/2021,$0.65,7,07/30/2020,$0.45
+time-not-supplied,TPL,Texas Pacific Land Corporation,"$11,271,943,953",Jun/2021,$7.33,2,07/30/2020,$3.56
+time-not-supplied,KL,Kirkland Lake Gold Ltd.,"$11,230,834,851",Jun/2021,$0.85,3,07/30/2020,$0.79
+time-not-supplied,FND,"Floor & Decor Holdings, Inc.","$11,142,682,809",Jun/2021,$0.61,8,07/30/2020,$0.13
+time-pre-market,TAP,Molson Coors Beverage Company,"$11,071,450,111",Jun/2021,$1.39,6,07/30/2020,$1.55
+time-after-hours,GLPI,"Gaming and Leisure Properties, Inc.","$10,917,869,244",Jun/2021,$0.83,5,07/30/2020,$0.84
+time-after-hours,LPLA,LPL Financial Holdings Inc.,"$10,769,146,181",Jun/2021,$1.63,3,07/30/2020,$1.42
+time-not-supplied,GRFS,"Grifols, S.A.","$10,768,428,974",Jun/2021,$0.27,1,07/30/2020,$0.35
+time-not-supplied,DECK,Deckers Outdoor Corporation,"$10,592,867,939",Jun/2021,($0.25),5,07/30/2020,($0.28)
+time-pre-market,MMP,Magellan Midstream Partners L.P.,"$10,378,185,380",Jun/2021,$0.94,5,07/30/2020,$0.65
+time-pre-market,ARES,Ares Management Corporation,"$10,215,675,758",Jun/2021,$0.51,4,08/05/2020,$0.39
+time-after-hours,PFPT,"Proofpoint, Inc.","$10,042,019,106",Jun/2021,($0.37),3,07/30/2020,($0.02)
+time-after-hours,CUBE,CubeSmart,"$9,749,382,638",Jun/2021,$0.47,6,08/06/2020,$0.41
+time-after-hours,ERIE,Erie Indemnity Company,"$9,574,274,830",Jun/2021,$1.51,1,07/30/2020,$1.57
+time-pre-market,AGCO,AGCO Corporation,"$9,457,363,250",Jun/2021,$2.17,8,07/30/2020,$1.11
+time-pre-market,ACI,"Albertsons Companies, Inc.","$9,241,582,137",May/2021,$0.66,6,07/27/2020,$1.33
+time-pre-market,KIM,Kimco Realty Corporation,"$9,186,199,293",Jun/2021,$0.31,11,08/07/2020,$0.24
+time-after-hours,ATR,"AptarGroup, Inc.","$9,105,462,917",Jun/2021,$0.96,7,07/30/2020,$0.80
+time-after-hours,FSLR,"First Solar, Inc.","$9,100,292,562",Jun/2021,$0.71,12,08/06/2020,$0.35
+time-not-supplied,BCH,Banco De Chile,"$8,980,418,500",Jun/2021,$0.42,2,07/30/2020,$0.27
+time-not-supplied,BLDR,"Builders FirstSource, Inc.","$8,666,466,602",Jun/2021,$1.23,6,07/30/2020,$0.67
+time-not-supplied,WEX,WEX Inc.,"$8,633,275,073",Jun/2021,$1.74,5,07/30/2020,$0.94
+time-pre-market,NLSN,Nielsen N.V.,"$8,568,081,430",Jun/2021,$0.34,3,08/05/2020,$0.39
+time-pre-market,BSAC,Banco Santander Chile,"$8,395,274,931",Jun/2021,$0.48,2,07/30/2020,$0.28
+time-pre-market,OSK,Oshkosh Corporation,"$8,238,146,694",Jun/2021,$2.24,11,07/30/2020,$1.29
+time-not-supplied,ARW,"Arrow Electronics, Inc.","$8,234,186,371",Jun/2021,$2.91,4,07/30/2020,$1.59
+time-pre-market,FLEX,Flex Ltd.,"$8,188,657,439",Jun/2021,$0.30,1,07/30/2020,$0.10
+time-after-hours,AIRC,Apartment Income REIT Corp.,"$8,045,157,076",Jun/2021,$0.50,3,NA,NA
+time-pre-market,TPX,"Tempur Sealy International, Inc.","$7,687,010,839",Jun/2021,$0.59,8,07/30/2020,$0.17
+time-not-supplied,MTZ,"MasTec, Inc.","$7,544,830,553",Jun/2021,$1.19,3,07/30/2020,$0.88
+time-pre-market,BC,Brunswick Corporation,"$7,524,145,700",Jun/2021,$2.10,9,07/30/2020,$0.99
+time-not-supplied,CACC,Credit Acceptance Corporation,"$7,469,911,587",Jun/2021,$10.72,1,07/30/2020,$8.63
+time-pre-market,CFR,"Cullen/Frost Bankers, Inc.","$6,855,266,532",Jun/2021,$1.60,7,07/30/2020,$1.47
+time-pre-market,JHG,Janus Henderson Group plc,"$6,854,359,062",Jun/2021,$0.99,2,07/29/2020,$0.67
+time-not-supplied,GIL,"Gildan Activewear, Inc.","$6,708,912,281",Jun/2021,$0.53,4,07/30/2020,($0.99)
+time-pre-market,AER,Aercap Holdings N.V.,"$6,662,227,113",Jun/2021,$1.46,3,07/29/2020,$1.92
+time-pre-market,EME,"EMCOR Group, Inc.","$6,650,971,089",Jun/2021,$1.59,3,08/03/2020,$1.44
+time-not-supplied,COLM,Columbia Sportswear Company,"$6,622,884,471",Jun/2021,($0.12),4,07/30/2020,($0.77)
+time-after-hours,TXRH,"Texas Roadhouse, Inc.","$6,594,855,338",Jun/2021,$1.01,10,08/03/2020,($0.48)
+time-pre-market,OMCL,"Omnicell, Inc.","$6,517,359,531",Jun/2021,$0.55,2,07/28/2020,$0.16
+time-not-supplied,BRKS,"Brooks Automation, Inc.","$6,448,213,109",Jun/2021,$0.70,3,07/30/2020,$0.32
+time-not-supplied,HBI,Hanesbrands Inc.,"$6,277,095,629",Jun/2021,$0.39,4,07/30/2020,$0.60
+time-not-supplied,X,United States Steel Corporation,"$6,256,142,856",Jun/2021,$3.16,2,07/30/2020,($2.67)
+time-after-hours,UPWK,Upwork Inc.,"$6,181,097,601",Jun/2021,($0.10),2,08/04/2020,($0.09)
+time-pre-market,CFX,Colfax Corporation,"$6,046,284,989",Jun/2021,$0.53,10,08/06/2020,$0.09
+time-pre-market,COR,CoreSite Realty Corporation,"$5,925,031,172",Jun/2021,$1.35,9,07/30/2020,$1.35
+time-not-supplied,RDFN,Redfin Corporation,"$5,763,899,709",Jun/2021,($0.34),8,07/30/2020,($0.08)
+time-after-hours,CUZ,Cousins Properties Incorporated,"$5,742,477,326",Jun/2021,$0.68,4,07/30/2020,$0.66
+time-not-supplied,RARE,Ultragenyx Pharmaceutical Inc.,"$5,719,161,621",Jun/2021,($1.28),10,07/30/2020,($0.82)
+time-not-supplied,TFSL,TFS Financial Corporation,"$5,623,554,118",Jun/2021,$0.06,1,07/30/2020,$0.10
+time-not-supplied,SSB,South State Corporation,"$5,605,665,295",Jun/2021,$1.63,5,07/30/2020,$0.89
+time-after-hours,CC,Chemours Company (The),"$5,591,478,920",Jun/2021,$0.85,4,07/30/2020,$0.18
+time-not-supplied,TIMB,TIM S.A.,"$5,558,166,890",Jun/2021,$0.15,3,NA,$0.10
+time-pre-market,KBR,"KBR, Inc.","$5,506,847,913",Jun/2021,$0.48,4,08/06/2020,$0.39
+time-not-supplied,FLS,Flowserve Corporation,"$5,469,329,111",Jun/2021,$0.42,5,07/30/2020,$0.53
+time-after-hours,NATI,National Instruments Corporation,"$5,466,956,275",Jun/2021,$0.21,1,07/30/2020,$0.17
+time-after-hours,DV,"DoubleVerify Holdings, Inc.","$5,432,897,249",Jun/2021,$0.01,3,NA,NA
+time-pre-market,SAIA,"Saia, Inc.","$5,337,576,031",Jun/2021,$1.99,8,07/29/2020,$1.07
+time-not-supplied,SEM,Select Medical Holdings Corporation,"$5,268,148,243",Jun/2021,$0.60,2,07/30/2020,$0.38
+time-pre-market,IDA,"IDACORP, Inc.","$5,174,300,411",Jun/2021,,0,07/30/2020,$1.19
+time-pre-market,ADS,Alliance Data Systems Corporation,"$5,017,612,310",Jun/2021,$3.75,12,07/23/2020,$1.76
+time-after-hours,POWI,"Power Integrations, Inc.","$4,849,382,200",Jun/2021,$0.63,4,07/30/2020,$0.23
+time-not-supplied,BPMC,Blueprint Medicines Corporation,"$4,741,999,314",Jun/2021,($1.77),8,07/30/2020,($2.28)
+time-after-hours,EXPO,"Exponent, Inc.","$4,667,603,814",Jun/2021,$0.42,2,07/30/2020,$0.31
+time-not-supplied,GRA,W.R. Grace & Co.,"$4,603,303,254",Jun/2021,$0.97,2,07/30/2020,$0.49
+time-pre-market,FCN,"FTI Consulting, Inc.","$4,596,601,389",Jun/2021,$1.44,2,07/30/2020,$1.32
+time-after-hours,CDNA,"CareDx, Inc.","$4,556,803,308",Jun/2021,($0.09),3,08/04/2020,($0.15)
+time-after-hours,AUY,Yamana Gold Inc.,"$4,209,789,711",Jun/2021,$0.04,4,07/23/2020,$0.07
+time-pre-market,OSTK,"Overstock.com, Inc.","$4,187,551,376",Jun/2021,$0.84,2,07/30/2020,$0.84
+time-pre-market,TIGO,Millicom International Cellular S.A.,"$4,130,612,210",Jun/2021,,0,07/30/2020,($0.87)
+time-pre-market,MTSI,"MACOM Technology Solutions Holdings, Inc.","$3,996,557,683",Jun/2021,$0.40,8,07/29/2020,$0.20
+time-after-hours,KNSL,"Kinsale Capital Group, Inc.","$3,943,319,657",Jun/2021,$1.09,3,07/30/2020,$0.84
+time-after-hours,WWE,"World Wrestling Entertainment, Inc.","$3,930,276,942",Jun/2021,$0.24,3,07/30/2020,$0.45
+time-not-supplied,SHAK,"Shake Shack, Inc.","$3,910,024,794",Jun/2021,($0.07),11,07/30/2020,($0.45)
+time-pre-market,SNDR,"Schneider National, Inc.","$3,874,449,600",Jun/2021,$0.41,6,07/30/2020,$0.26
+time-not-supplied,ROG,Rogers Corporation,"$3,638,391,223",Jun/2021,$1.88,2,07/30/2020,$1.13
+time-pre-market,EXLS,"ExlService Holdings, Inc.","$3,636,847,207",Jun/2021,$0.84,5,08/06/2020,$0.35
+time-after-hours,EBC,"Eastern Bankshares, Inc.","$3,610,035,116",Jun/2021,$0.20,3,NA,NA
+time-pre-market,KEX,Kirby Corporation,"$3,471,063,750",Jun/2021,$0.12,3,07/30/2020,$0.42
+time-pre-market,AGIO,"Agios Pharmaceuticals, Inc.","$3,454,317,276",Jun/2021,($1.39),6,07/30/2020,($1.31)
+time-not-supplied,SPSC,"SPS Commerce, Inc.","$3,453,985,755",Jun/2021,$0.25,4,07/30/2020,$0.31
+time-not-supplied,HGV,Hilton Grand Vacations Inc.,"$3,419,317,467",Jun/2021,$0.21,3,07/30/2020,($0.56)
+time-not-supplied,SWN,Southwestern Energy Company,"$3,405,307,278",Jun/2021,$0.22,9,07/30/2020,$0
+time-not-supplied,DAN,Dana Incorporated,"$3,367,325,975",Jun/2021,$0.54,5,07/30/2020,($0.69)
+time-pre-market,MDC,"M.D.C. Holdings, Inc.","$3,358,778,135",Jun/2021,$1.98,4,07/28/2020,$1.21
+time-after-hours,MMSI,"Merit Medical Systems, Inc.","$3,358,157,121",Jun/2021,$0.44,5,07/29/2020,$0.31
+time-after-hours,OFC,Corporate Office Properties Trust,"$3,311,372,071",Jun/2021,$0.56,6,07/30/2020,$0.51
+time-after-hours,FHI,"Federated Hermes, Inc.","$3,274,693,315",Jun/2021,$0.66,3,07/30/2020,$0.80
+time-after-hours,CWST,"Casella Waste Systems, Inc.","$3,255,921,615",Jun/2021,$0.24,4,08/03/2020,$0.27
+time-after-hours,EBS,"Emergent Biosolutions, Inc.","$3,238,170,435",Jun/2021,$1.81,2,07/30/2020,$1.98
+time-pre-market,SITC,SITE Centers Corp.,"$3,209,783,821",Jun/2021,$0.24,8,07/28/2020,$0.21
+time-not-supplied,BAND,Bandwidth Inc.,"$3,193,277,542",Jun/2021,($0.04),5,07/30/2020,$0.05
+time-not-supplied,TWOU,"2U, Inc.","$3,166,660,073",Jun/2021,($0.50),5,07/30/2020,($0.67)
+time-not-supplied,TEX,Terex Corporation,"$3,151,470,000",Jun/2021,$0.53,7,07/30/2020,($0.05)
+time-after-hours,WERN,"Werner Enterprises, Inc.","$3,112,009,541",Jun/2021,$0.86,6,07/29/2020,$0.62
+time-pre-market,VC,Visteon Corporation,"$3,110,526,808",Jun/2021,$0.18,8,07/30/2020,($1.44)
+time-pre-market,TMHC,Taylor Morrison Home Corporation,"$3,052,399,360",Jun/2021,$1.01,5,07/30/2020,$0.80
+time-after-hours,PTCT,"PTC Therapeutics, Inc.","$3,028,194,925",Jun/2021,($1.84),5,08/05/2020,($2.65)
+time-pre-market,PRG,"PROG Holdings, Inc.","$2,996,579,379",Jun/2021,$0.86,4,07/29/2020,$1.18
+time-not-supplied,GPI,"Group 1 Automotive, Inc.","$2,992,252,024",Jun/2021,$10.50,1,07/30/2020,$3.77
+time-pre-market,CWT,California Water  Service Group Holding,"$2,988,589,650",Jun/2021,$0.34,1,07/30/2020,$0.11
+time-pre-market,ITGR,Integer Holdings Corporation,"$2,950,280,854",Jun/2021,$0.91,1,07/30/2020,$0.32
+time-pre-market,COOP,Mr. Cooper Group Inc.,"$2,878,641,091",Jun/2021,$1.60,3,07/30/2020,$2.85
+time-not-supplied,SPXC,SPX Corporation,"$2,865,901,938",Jun/2021,$0.41,2,07/30/2020,$0.64
+time-pre-market,CNX,CNX Resources Corporation,"$2,859,105,768",Jun/2021,$0.21,7,07/30/2020,$0.13
+time-after-hours,MATX,"Matson, Inc.","$2,824,617,523",Jun/2021,$3.67,1,08/05/2020,$0.76
+time-after-hours,AX,"Axos Financial, Inc.","$2,778,276,082",Jun/2021,$0.86,6,07/29/2020,$0.78
+time-pre-market,PRFT,"Perficient, Inc.","$2,748,502,938",Jun/2021,$0.67,3,07/30/2020,$0.41
+time-not-supplied,CVA,Covanta Holding Corporation,"$2,647,489,005",Jun/2021,($0.01),4,07/30/2020,($0.10)
+time-pre-market,WWW,"Wolverine World Wide, Inc.","$2,628,111,498",Jun/2021,$0.46,5,08/05/2020,$0.08
+time-after-hours,MTX,Minerals Technologies Inc.,"$2,625,199,128",Jun/2021,$1.24,3,07/30/2020,$0.85
+time-not-supplied,SHEN,Shenandoah Telecommunications Co,"$2,617,021,007",Jun/2021,$0.67,3,07/30/2020,$0.58
+time-after-hours,VCYT,"Veracyte, Inc.","$2,553,416,394",Jun/2021,($0.25),6,07/30/2020,($0.22)
+time-pre-market,COLB,"Columbia Banking System, Inc.","$2,539,733,529",Jun/2021,$0.67,3,07/23/2020,$0.52
+time-not-supplied,MDRX,"Allscripts Healthcare Solutions, Inc.","$2,501,446,741",Jun/2021,$0.12,7,07/30/2020,$0.14
+time-not-supplied,OPK,"Opko Health, Inc.","$2,439,796,033",Jun/2021,$0.02,3,07/30/2020,$0.05
+time-after-hours,FWRD,Forward Air Corporation,"$2,425,551,013",Jun/2021,$0.93,3,07/30/2020,$0.33
+time-not-supplied,SM,SM Energy Company,"$2,405,430,626",Jun/2021,($0.20),5,07/30/2020,($0.15)
+time-not-supplied,SBH,"Sally Beauty Holdings, Inc.","$2,385,587,825",Jun/2021,$0.62,6,07/30/2020,($0.11)
+time-pre-market,FSS,Federal Signal Corporation,"$2,378,679,032",Jun/2021,$0.45,5,07/29/2020,$0.42
+time-pre-market,EVA,"Enviva Partners, LP","$2,364,879,107",Jun/2021,$0.16,1,08/05/2020,$0.03
+time-pre-market,PRLB,"Proto Labs, Inc.","$2,342,552,511",Jun/2021,$0.31,1,07/28/2020,$0.47
+time-pre-market,VSTO,Vista Outdoor Inc.,"$2,333,839,800",Jun/2021,$0.89,7,08/06/2020,$0.51
+time-not-supplied,HUBG,"Hub Group, Inc.","$2,310,391,138",Jun/2021,$0.71,6,07/30/2020,$0.60
+time-pre-market,THRM,Gentherm Inc,"$2,242,523,353",Jun/2021,$0.69,3,08/04/2020,($0.30)
+time-after-hours,SIMO,Silicon Motion Technology Corporation,"$2,200,285,269",Jun/2021,$1.31,3,07/29/2020,$0.80
+time-pre-market,NTCT,"NetScout Systems, Inc.","$2,156,523,655",Jun/2021,$0.05,2,07/30/2020,$0.04
+time-after-hours,SKYW,"SkyWest, Inc.","$2,096,892,574",Jun/2021,$0.28,3,07/30/2020,($0.51)
+time-after-hours,WRE,Washington Real Estate Investment Trust,"$2,092,558,284",Jun/2021,$0.33,4,07/28/2020,$0.38
+time-not-supplied,PQG,PQ Group Holdings Inc.,"$2,045,651,402",Jun/2021,$0.07,4,07/30/2020,$0.22
+time-pre-market,RLGY,Realogy Holdings Corp.,"$2,038,589,983",Jun/2021,$0.98,1,07/30/2020,$0.46
+time-after-hours,CXP,"Columbia Property Trust, Inc.","$2,017,101,835",Jun/2021,$0.32,1,07/30/2020,$0.40
+time-pre-market,SAH,"Sonic Automotive, Inc.","$1,988,230,388",Jun/2021,$1.31,5,07/30/2020,$0.64
+time-after-hours,HTGC,"Hercules Capital, Inc.","$1,979,208,549",Jun/2021,$0.32,5,07/30/2020,$0.32
+time-not-supplied,BGS,"B&G Foods, Inc.","$1,969,759,094",Jun/2021,$0.44,3,07/30/2020,$0.71
+time-not-supplied,RILY,"B. Riley Financial, Inc.","$1,956,945,651",Jun/2021,,3,NA,$3.39
+time-not-supplied,CVCO,"Cavco Industries, Inc.","$1,944,568,158",Jun/2021,$2.11,1,07/30/2020,$1.80
+time-not-supplied,INT,World Fuel Services Corporation,"$1,917,918,459",Jun/2021,$0.30,2,07/30/2020,$0.13
+time-not-supplied,CBD,Companhia Brasileira de Distribuicao,"$1,865,043,390",Jun/2021,$0.04,1,07/30/2020,$0.19
+time-pre-market,BSIG,BrightSphere Investment Group Inc.,"$1,864,038,614",Jun/2021,$0.37,1,08/06/2020,$0.41
+time-not-supplied,DLX,Deluxe Corporation,"$1,860,245,426",Jun/2021,,3,NA,$1.05
+time-not-supplied,PACK,Ranpak Holdings Corp,"$1,850,905,334",Jun/2021,,3,NA,($0.12)
+time-not-supplied,CRS,Carpenter Technology Corporation,"$1,840,600,954",Jun/2021,($0.51),3,07/30/2020,($0.31)
+time-pre-market,HNI,HNI Corporation,"$1,807,862,531",Jun/2021,,3,NA,$0.20
+time-after-hours,EGO,Eldorado Gold Corporation,"$1,792,617,315",Jun/2021,$0.11,3,07/30/2020,$0.26
+time-not-supplied,PATK,"Patrick Industries, Inc.","$1,729,940,688",Jun/2021,$1.83,2,07/30/2020,$0.03
+time-pre-market,GWB,"Great Western Bancorp, Inc.","$1,693,573,414",Jun/2021,$0.75,4,07/29/2020,$0.10
+time-not-supplied,CBZ,"CBIZ, Inc.","$1,684,196,740",Jun/2021,$0.38,1,07/30/2020,$0.39
+time-not-supplied,COHU,"Cohu, Inc.","$1,662,132,323",Jun/2021,$0.72,4,07/30/2020,$0.10
+time-pre-market,PTEN,"Patterson-UTI Energy, Inc.","$1,608,041,590",Jun/2021,($0.52),7,07/23/2020,($0.56)
+time-pre-market,CLI,Mack-Cali Realty Corporation,"$1,603,210,567",Jun/2021,$0.12,4,08/03/2020,$0.28
+time-not-supplied,SAND,Sandstorm Gold Ltd,"$1,548,776,802",Jun/2021,$0.06,3,07/30/2020,$0.04
+time-after-hours,LTC,"LTC Properties, Inc.","$1,534,432,965",Jun/2021,$0.68,3,07/30/2020,$0.76
+time-not-supplied,MGNX,"MacroGenics, Inc.","$1,480,497,796",Jun/2021,($0.27),6,07/30/2020,($0.94)
+time-not-supplied,TNC,Tennant Company,"$1,430,792,691",Jun/2021,$1.02,1,07/30/2020,$0.96
+time-after-hours,POLY,"Plantronics, Inc.","$1,428,310,288",Jun/2021,$0.20,2,07/28/2020,$0.15
+time-after-hours,OPI,Office Properties Income Trust,"$1,419,593,593",Jun/2021,$1.13,3,07/30/2020,$1.40
+time-not-supplied,LADR,Ladder Capital Corp,"$1,408,714,348",Jun/2021,($0.01),2,07/30/2020,$0.10
+time-not-supplied,GFF,Griffon Corporation,"$1,396,681,908",Jun/2021,$0.41,2,07/30/2020,$0.59
+time-after-hours,VCRA,"Vocera Communications, Inc.","$1,368,823,669",Jun/2021,($0.13),5,07/27/2020,($0.10)
+time-not-supplied,MGPI,"MGP Ingredients, Inc.","$1,358,099,831",Jun/2021,$0.43,1,07/30/2020,$0.54
+time-pre-market,PBF,PBF Energy Inc.,"$1,296,753,043",Jun/2021,($0.95),10,07/31/2020,($3.19)
+time-not-supplied,AROC,"Archrock, Inc.","$1,295,594,190",Jun/2021,$0.06,1,07/30/2020,$0.12
+time-pre-market,CMCO,Columbus McKinnon Corporation,"$1,294,603,632",Jun/2021,$0.41,4,07/30/2020,$0.07
+time-not-supplied,TBBK,"The Bancorp, Inc.","$1,294,375,312",Jun/2021,$0.43,2,07/30/2020,$0.35
+time-pre-market,TRS,TriMas Corporation,"$1,271,168,609",Jun/2021,$0.57,2,07/30/2020,$0.43
+time-not-supplied,QURE,uniQure N.V.,"$1,243,641,661",Jun/2021,$2.85,6,07/30/2020,($0.96)
+time-pre-market,MTLS,Materialise NV,"$1,221,582,747",Jun/2021,($0.05),2,07/30/2020,($0.04)
+time-after-hours,OCFC,OceanFirst Financial Corp.,"$1,207,249,463",Jun/2021,$0.43,6,07/23/2020,$0.36
+time-pre-market,CCO,"Clear Channel Outdoor Holdings, Inc.","$1,186,499,628",Jun/2021,($0.24),2,08/07/2020,($0.30)
+time-pre-market,WFRD,Weatherford International plc,"$1,179,420,973",Jun/2021,($1.55),3,NA,NA
+time-not-supplied,NGD,New Gold Inc.,"$1,177,611,000",Jun/2021,$0.05,3,07/30/2020,$0
+time-after-hours,NXGN,"NextGen Healthcare, Inc.","$1,096,630,137",Jun/2021,$0.14,7,07/30/2020,$0.15
+time-not-supplied,NEXA,Nexa Resources S.A.,"$1,096,591,699",Jun/2021,$0.36,2,07/30/2020,($0.44)
+time-after-hours,MATW,Matthews International Corporation,"$1,093,722,055",Jun/2021,$0.80,1,07/30/2020,$0.80
+time-not-supplied,ALTM,Altus Midstream Company,"$1,056,019,900",Jun/2021,$1.41,1,07/30/2020,$2.16
+time-after-hours,HURN,Huron Consulting Group Inc.,"$1,052,807,756",Jun/2021,$0.46,3,07/30/2020,$0.68
+time-after-hours,TRVG,trivago N.V.,"$1,052,587,181",Jun/2021,($0.02),4,07/28/2020,($0.06)
+time-not-supplied,MX,MagnaChip Semiconductor Corporation,"$1,048,551,401",Jun/2021,$0.17,2,07/30/2020,$0.13
+time-after-hours,BJRI,"BJ's Restaurants, Inc.","$1,032,213,525",Jun/2021,$0.16,9,07/23/2020,($0.99)
+time-pre-market,CNOB,"ConnectOne Bancorp, Inc.","$1,030,136,291",Jun/2021,$0.72,3,07/30/2020,$0.52
+time-not-supplied,DRQ,"Dril-Quip, Inc.","$1,024,272,453",Jun/2021,($0.08),4,07/30/2020,($0.34)
+time-after-hours,PFC,Premier Financial Corp. ,"$1,018,771,448",Jun/2021,$0.79,3,07/28/2020,$0.82
+time-not-supplied,CRY,"CryoLife, Inc.","$1,011,074,590",Jun/2021,($0.05),1,07/30/2020,($0.02)
+time-after-hours,NTST,NetSTREIT Corp.,"$987,105,520",Jun/2021,$0.19,3,NA,NA
+time-after-hours,ASPN,"Aspen Aerogels, Inc.","$970,713,313",Jun/2021,($0.26),3,07/30/2020,($0.21)
+time-after-hours,KRNY,Kearny Financial,"$954,165,011",Jun/2021,$0.21,1,07/30/2020,$0.17
+time-pre-market,RFP,Resolute Forest Products Inc.,"$950,675,226",Jun/2021,,3,NA,($0.25)
+time-not-supplied,KNSA,"Kiniksa Pharmaceuticals, Ltd.","$923,849,099",Jun/2021,($0.69),2,07/30/2020,($0.65)
+time-pre-market,DBD,Diebold Nixdorf Incorporated,"$908,230,063",Jun/2021,$0.29,3,07/30/2020,$0.38
+time-not-supplied,MGI,"Moneygram International, Inc.","$903,497,174",Jun/2021,($0.01),3,07/30/2020,$0
+time-not-supplied,TVTX,"Travere Therapeutics, Inc.","$897,191,585",Jun/2021,($0.73),4,07/30/2020,($0.58)
+time-not-supplied,ORBC,ORBCOMM Inc.,"$887,371,791",Jun/2021,($0.05),3,07/30/2020,($0.09)
+time-not-supplied,CARS,Cars.com Inc.,"$886,188,772",Jun/2021,,0,07/30/2020,$0.06
+time-after-hours,BY,"Byline Bancorp, Inc.","$884,229,552",Jun/2021,$0.48,2,07/23/2020,$0.24
+time-pre-market,PBFX,PBF Logistics LP,"$883,097,065",Jun/2021,,0,07/31/2020,$0.60
+time-not-supplied,MITK,"Mitek Systems, Inc.","$809,021,707",Jun/2021,$0.10,2,07/30/2020,$0.11
+time-after-hours,MERC,Mercer International Inc.,"$805,057,955",Jun/2021,$0.57,1,07/30/2020,($0.13)
+time-not-supplied,UTL,UNITIL Corporation,"$801,323,457",Jun/2021,$0.17,2,07/30/2020,$0.21
+time-not-supplied,MYE,"Myers Industries, Inc.","$757,813,875",Jun/2021,$0.24,1,07/30/2020,$0.23
+time-pre-market,ABTX,"Allegiance Bancshares, Inc.","$752,826,459",Jun/2021,$0.93,3,07/30/2020,$0.48
+time-after-hours,MRC,MRC Global Inc.,"$717,800,903",Jun/2021,$0.04,5,07/28/2020,($0.10)
+time-pre-market,CNSL,"Consolidated Communications Holdings, Inc.","$687,857,506",Jun/2021,,3,NA,$0.18
+time-pre-market,CBTX,"CBTX, Inc.","$676,343,222",Jun/2021,$0.43,1,07/29/2020,$0.09
+time-not-supplied,CASA,"Casa Systems, Inc.","$673,898,961",Jun/2021,($0.01),4,07/30/2020,($0.03)
+time-not-supplied,FMBH,"First Mid Bancshares, Inc.","$670,796,595",Jun/2021,$0.93,4,07/30/2020,$0.60
+time-not-supplied,LOCO,"El Pollo Loco Holdings, Inc.","$666,808,316",Jun/2021,$0.27,4,07/30/2020,$0.20
+time-after-hours,ULH,"Universal Logistics Holdings, Inc.","$628,838,468",Jun/2021,$0.81,1,07/30/2020,$0.21
+time-pre-market,ONEW,OneWater Marine Inc.,"$617,351,935",Jun/2021,$2.38,4,07/30/2020,$2.36
+time-not-supplied,DCO,Ducommun Incorporated,"$615,349,572",Jun/2021,$0.65,2,07/30/2020,$0.48
+time-not-supplied,CRAI,"CRA International,Inc.","$602,587,287",Jun/2021,$0.93,3,07/30/2020,$0.80
+time-not-supplied,EVLO,"Evelo Biosciences, Inc.","$587,112,702",Jun/2021,($0.55),3,07/30/2020,($0.63)
+time-not-supplied,ANIK,Anika Therapeutics Inc.,"$586,875,623",Jun/2021,$0.04,1,07/30/2020,$0.09
+time-not-supplied,OPY,"Oppenheimer Holdings, Inc.","$564,894,577",Jun/2021,,3,NA,$1.34
+time-not-supplied,ORC,"Orchid Island Capital, Inc.","$545,662,068",Jun/2021,,0,07/30/2020,$0.30
+time-not-supplied,LXRX,"Lexicon Pharmaceuticals, Inc.","$532,790,978",Jun/2021,($0.16),2,07/30/2020,($0.64)
+time-after-hours,BZH,"Beazer Homes USA, Inc.","$525,741,535",Jun/2021,$0.90,1,07/30/2020,$0.63
+time-not-supplied,FLIC,The First of Long Island Corporation,"$504,462,479",Jun/2021,$0.45,2,07/30/2020,$0.45
+time-pre-market,AMAL,Amalgamated Financial Corp.,"$483,733,386",Jun/2021,$0.36,3,07/28/2020,$0.34
+time-not-supplied,TDW,Tidewater Inc.,"$475,916,782",Jun/2021,,3,NA,$0.02
+time-pre-market,LAWS,"Lawson Products, Inc.","$473,999,077",Jun/2021,$0.52,1,07/30/2020,$0.07
+time-after-hours,FISI,"Financial Institutions, Inc.","$470,434,878",Jun/2021,$0.80,1,07/29/2020,$0.67
+time-not-supplied,MOFG,"MidWestOne Financial Group, Inc.","$464,035,909",Jun/2021,$0.91,3,07/30/2020,$0.73
+time-pre-market,WTBA,West Bancorporation,"$460,555,815",Jun/2021,$0.62,1,07/23/2020,$0.48
+time-pre-market,IBCP,Independent Bank Corporation,"$459,451,955",Jun/2021,$0.70,3,07/28/2020,$0.67
+time-not-supplied,GTX,Garrett Motion Inc.,"$457,201,681",Jun/2021,($0.18),1,07/30/2020,$0.07
+time-not-supplied,BWB,"Bridgewater Bancshares, Inc.","$456,196,879",Jun/2021,$0.37,3,07/30/2020,$0.26
+time-not-supplied,HAYN,"Haynes International, Inc.","$447,150,845",Jun/2021,($0.17),1,07/30/2020,($0.65)
+time-not-supplied,ATER,"Aterian, Inc.","$394,344,586",Jun/2021,($0.17),2,07/30/2020,($0.19)
+time-after-hours,FRST,Primis Financial Corp.,"$364,276,692",Jun/2021,$0.25,2,07/27/2020,$0.19
+time-not-supplied,TUEM,Tuesday Morning Corp.,"$361,997,890",Jun/2021,$0.03,3,NA,NA
+time-not-supplied,UONE,"Urban One, Inc. ","$348,243,912",Jun/2021,,3,NA,$0.03
+time-after-hours,LLNW,"Limelight Networks, Inc.","$339,359,122",Jun/2021,($0.07),4,07/20/2020,($0.01)
+time-after-hours,CTO,"CTO Realty Growth, Inc.","$330,999,618",Jun/2021,$1.02,2,07/29/2020,NA
+time-pre-market,MIXT,MiX Telematics Limited,"$323,378,919",Jun/2021,$0.11,2,07/30/2020,$0.08
+time-not-supplied,CARE,"Carter Bankshares, Inc.","$299,873,727",Jun/2021,$0.29,3,NA,NA
+time-not-supplied,SMMF,"Summit Financial Group, Inc.","$295,622,060",Jun/2021,$0.79,2,07/30/2020,$0.54
+time-after-hours,BHR,Braemar Hotels & Resorts Inc.,"$285,177,260",Jun/2021,$0.06,2,07/30/2020,($0.58)
+time-pre-market,SILC,Silicom Ltd,"$283,179,033",Jun/2021,,3,NA,$0.18
+time-not-supplied,MRLN,Marlin Business Services Corp.,"$272,489,519",Jun/2021,,3,NA,($0.43)
+time-not-supplied,WRAP,"Wrap Technologies, Inc.","$259,554,591",Jun/2021,($0.13),1,07/30/2020,($0.09)
+time-not-supplied,FDBC,"Fidelity D & D Bancorp, Inc.","$255,449,904",Jun/2021,,3,NA,$0.05
+time-not-supplied,PFBI,"Premier Financial Bancorp, Inc.","$245,603,697",Jun/2021,,3,NA,$0.37
+time-not-supplied,UONEK,"Urban One, Inc. ","$243,770,738",Jun/2021,,3,NA,$0.03
+time-not-supplied,ESXB,Community Bankers Trust Corporation.,"$243,031,997",Jun/2021,$0.23,1,07/30/2020,$0.18
+time-not-supplied,TBNK,Territorial Bancorp Inc.,"$239,975,391",Jun/2021,$0.41,1,07/30/2020,$0.47
+time-not-supplied,GAU,Galiano Gold Inc.,"$233,660,045",Jun/2021,$0.02,1,07/30/2020,$0.07
+time-not-supplied,INFI,"Infinity Pharmaceuticals, Inc.","$231,369,299",Jun/2021,($0.13),5,07/30/2020,($0.16)
+time-not-supplied,DLA,"Delta Apparel, Inc.","$226,397,463",Jun/2021,$0.90,1,07/30/2020,($2.58)
+time-after-hours,CDR,"Cedar Realty Trust, Inc.","$226,362,873",Jun/2021,$0.64,3,08/10/2020,$0.40
+time-not-supplied,LAZY,"Lazydays Holdings, Inc.","$221,387,147",Jun/2021,$1.10,1,07/30/2020,$0.39
+time-not-supplied,MFNC,Mackinac Financial Corporation,"$209,214,293",Jun/2021,,3,NA,$0.33
+time-not-supplied,FNWB,First Northwest Bancorp,"$181,487,273",Jun/2021,,3,NA,$0.21
+time-not-supplied,ACET,"Adicet Bio, Inc.","$181,205,909",Jun/2021,($0.50),2,07/30/2020,($1.05)
+time-not-supplied,TUSK,"Mammoth Energy Services, Inc.","$180,187,621",Jun/2021,,3,NA,($0.33)
+time-pre-market,BSVN,Bank7 Corp.,"$167,230,250",Jun/2021,$0.57,1,07/27/2020,$0.54
+time-not-supplied,RVSB,Riverview Bancorp Inc,"$160,258,354",Jun/2021,$0.14,1,07/30/2020,$0.02
+time-not-supplied,HWBK,"Hawthorn Bancshares, Inc.","$153,513,820",Jun/2021,,3,NA,$0.49
+time-not-supplied,LTRN,Lantern Pharma Inc.,"$149,272,317",Jun/2021,($0.25),2,07/30/2020,($0.31)
+time-not-supplied,CZWI,"Citizens Community Bancorp, Inc.","$148,084,320",Jun/2021,$0.34,2,07/30/2020,$0.25
+time-not-supplied,XFOR,"X4 Pharmaceuticals, Inc.","$146,618,360",Jun/2021,($0.73),6,07/30/2020,($0.76)
+time-not-supplied,GHM,Graham Corporation,"$144,255,126",Jun/2021,$0,1,07/30/2020,($0.18)
+time-pre-market,ULBI,Ultralife Corporation,"$133,934,450",Jun/2021,,3,NA,$0.13
+time-after-hours,USAK,"USA Truck, Inc.","$132,626,862",Jun/2021,$0.50,1,07/27/2020,($0.06)
+time-not-supplied,ODT,"Odonate Therapeutics, Inc.","$130,924,170",Jun/2021,,0,07/30/2020,($1.09)
+time-after-hours,GSIT,"GSI Technology, Inc.","$128,270,855",Jun/2021,,3,NA,($0.26)
+time-not-supplied,AAIC,Arlington Asset Investment Corp,"$125,889,240",Jun/2021,,0,07/30/2020,($0.01)
+time-not-supplied,AUBN,"Auburn National Bancorporation, Inc.","$123,608,859",Jun/2021,,3,NA,$0.47
+time-not-supplied,RBKB,"Rhinebeck Bancorp, Inc.","$118,569,538",Jun/2021,,3,NA,$0.13
+time-not-supplied,CLDB,Cortland Bancorp,"$113,990,703",Jun/2021,,3,NA,$0.47
+time-not-supplied,IFRX,InflaRx N.V.,"$113,558,737",Jun/2021,($0.25),4,07/30/2020,($0.42)
+time-pre-market,NREF,"NexPoint Real Estate Finance, Inc.","$104,694,452",Jun/2021,$0.52,1,08/06/2020,$0.37
+time-not-supplied,ISDR,Issuer Direct Corporation,"$103,940,910",Jun/2021,$0.20,1,07/30/2020,$0.25
+time-not-supplied,CRVS,"Corvus Pharmaceuticals, Inc.","$98,072,450",Jun/2021,($0.35),2,07/30/2020,($0.36)
+time-not-supplied,AVGR,"Avinger, Inc.","$96,305,017",Jun/2021,($0.04),1,07/30/2020,($0.18)
+time-not-supplied,MKTY,Mechanical Technology Incorporated,"$89,971,342",Jun/2021,,3,NA,$0.06
+time-pre-market,NWHM,New Home Company Inc. (The),"$89,496,747",Jun/2021,,3,NA,($0.04)
+time-not-supplied,NICK,"Nicholas Financial, Inc.","$86,779,000",Jun/2021,,3,NA,$0.18
+time-not-supplied,DVD,"Dover Motorsports, Inc.","$82,731,491",Jun/2021,,3,NA,($0.02)
+time-not-supplied,HFBL,"Home Federal Bancorp, Inc. of Louisiana","$64,551,638",Jun/2021,,3,NA,$0.31
+time-not-supplied,DWSN,Dawson Geophysical Company,"$64,329,917",Jun/2021,,3,NA,$0.06
+time-not-supplied,EKSO,"Ekso Bionics Holdings, Inc.","$58,972,272",Jun/2021,($0.25),1,07/30/2020,($0.51)
+time-after-hours,AINC,Ashford Inc.,"$57,469,133",Jun/2021,$0.06,2,07/30/2020,$0.08
+time-after-hours,QUMU,Qumu Corporation,"$48,377,375",Jun/2021,($0.27),2,07/28/2020,($0.06)
+time-after-hours,DAIO,Data I/O Corporation,"$47,527,507",Jun/2021,,3,NA,($0.13)
+time-not-supplied,NNA,Navios Maritime Acquisition Corporation,"$46,863,331",Jun/2021,,3,NA,$2.01
+time-not-supplied,SCKT,"Socket Mobile, Inc.","$40,774,356",Jun/2021,,3,NA,($0.13)
+time-not-supplied,GIGM,GigaMedia Limited,"$32,383,048",Jun/2021,,3,NA,($0.04)
+time-not-supplied,WVFC,WVS Financial Corp.,"$31,584,654",Jun/2021,,3,NA,$0.20
+time-not-supplied,RSLS,"ReShape Lifesciences, Inc.","$15,680,000",Jun/2021,,3,NA,($1.62)
