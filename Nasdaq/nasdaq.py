@@ -73,7 +73,7 @@ class Nasdaq:
                 except FileExistsError:
                     pass
                 try:
-                    with open(csv_file, 'w') as csvfile:
+                    with open(csv_file, 'w', newline='') as csvfile:
                         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
                         writer.writeheader()
                         # print(dict_data)
