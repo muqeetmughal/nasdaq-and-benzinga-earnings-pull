@@ -36,8 +36,8 @@ import csv
 class Nasdaq:
     def __init__(self):
         
-        # next_date =datetime.date.today() + datetime.timedelta(days=1)
-        next_date    = datetime.date(2021,7,20) # test purpose only
+        next_date =datetime.date.today() + datetime.timedelta(days=1)
+        # next_date    = datetime.date(2021,7,20) # test purpose only
 
         today_day = next_date.weekday()
 
